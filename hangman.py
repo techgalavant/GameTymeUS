@@ -1,4 +1,5 @@
 #!/usr/bin/env python2
+# Hangman Game
 
 from random import *
 
@@ -72,7 +73,7 @@ def hangedman(hangman):
         |       |
         |       O
         |      -|-
-        |      / L
+        |      / \
         |
     =================
     """]
